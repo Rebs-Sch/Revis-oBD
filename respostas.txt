@@ -8,7 +8,7 @@ a
 b
 a
 a
-bc
+c
 a
 c
 a
